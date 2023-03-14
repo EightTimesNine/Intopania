@@ -1,0 +1,539 @@
+{
+  "addToDefaultIfMissing": true,
+  "calendars": [
+    {
+      "name": "Akazhem",
+      "description": "Calendar for Akazhem Era (current era)",
+      "id": null,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": false,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Monday",
+            "id": "ID_a89979abaa69"
+          },
+          {
+            "type": "day",
+            "name": "Tuesday",
+            "id": "ID_f82b6b3a08ea"
+          },
+          {
+            "type": "day",
+            "name": "Wednesday",
+            "id": "ID_8bba6aba6b49"
+          },
+          {
+            "type": "day",
+            "name": "Thursday",
+            "id": "ID_09fa19a83bca"
+          },
+          {
+            "type": "day",
+            "name": "Friday",
+            "id": "ID_db3b798848fa"
+          },
+          {
+            "type": "day",
+            "name": "Saturday",
+            "id": "ID_0aea5988f8fb"
+          },
+          {
+            "type": "day",
+            "name": "Sunday",
+            "id": "ID_58a8985b398a"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Ini",
+            "length": 28,
+            "id": "ID_0abb3a1b0898"
+          },
+          {
+            "type": "month",
+            "name": "Hena",
+            "length": 28,
+            "id": "ID_6a58c88be868"
+          },
+          {
+            "type": "month",
+            "name": "Dyo",
+            "length": 28,
+            "id": "ID_68186859b809"
+          },
+          {
+            "type": "month",
+            "name": "Rati",
+            "length": 28,
+            "id": "ID_b8a9c9b88a4b"
+          },
+          {
+            "type": "month",
+            "name": "Tessera",
+            "length": 28,
+            "id": "ID_1b18e949bb2b"
+          },
+          {
+            "type": "month",
+            "name": "Koot",
+            "length": 28,
+            "id": "ID_5ba838182b3b"
+          },
+          {
+            "type": "month",
+            "name": "Ennea",
+            "length": 28,
+            "id": "ID_cababaf88b38"
+          },
+          {
+            "type": "month",
+            "name": "Depente",
+            "length": 28,
+            "id": "ID_696b2bab2bb8"
+          },
+          {
+            "type": "month",
+            "name": "Seia",
+            "length": 28,
+            "id": "ID_088aa8b86ae8"
+          },
+          {
+            "type": "month",
+            "name": "Votem",
+            "length": 28,
+            "id": "ID_49095acbebe9"
+          },
+          {
+            "type": "month",
+            "name": "Delen",
+            "length": 28,
+            "id": "ID_bb18f9492b18"
+          },
+          {
+            "type": "month",
+            "name": "Natenti",
+            "length": 28,
+            "id": "ID_fb296b794b79"
+          }
+        ],
+        "moons": [
+          {
+            "name": "The Moon in The Fucking Sky",
+            "cycle": 29,
+            "offset": null,
+            "faceColor": "#97c3a8",
+            "shadowColor": "#101411",
+            "id": "ID_2b0939eafabb"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [
+          {
+            "id": "ID_fb4abaf8faaa",
+            "name": "Melora's Day",
+            "interval": [
+              {
+                "interval": 1,
+                "exclusive": false,
+                "ignore": false
+              }
+            ],
+            "intercalary": false,
+            "timespan": 0,
+            "offset": 0,
+            "type": "leapday"
+          },
+          {
+            "id": "ID_59ebd98b791b",
+            "name": "Erathis' Day",
+            "interval": [
+              {
+                "interval": 1,
+                "exclusive": false,
+                "ignore": false
+              }
+            ],
+            "intercalary": false,
+            "timespan": 1,
+            "offset": "0",
+            "type": "leapday"
+          },
+          {
+            "id": "ID_ca7919c88bea",
+            "name": "Neen's Day",
+            "interval": [
+              {
+                "interval": 1,
+                "exclusive": false,
+                "ignore": false
+              }
+            ],
+            "intercalary": false,
+            "timespan": 2,
+            "offset": "0",
+            "type": "leapday"
+          },
+          {
+            "id": "ID_5a68eaa80a8a",
+            "name": "Maoh's Day",
+            "interval": [
+              {
+                "interval": 1,
+                "exclusive": false,
+                "ignore": false
+              }
+            ],
+            "intercalary": false,
+            "timespan": 3,
+            "offset": "0",
+            "type": "leapday"
+          },
+          {
+            "id": "ID_f849fac9b94a",
+            "name": "Infel and Nenesha's Day / The Lovers' Day",
+            "interval": [
+              {
+                "interval": 1,
+                "exclusive": false,
+                "ignore": false
+              }
+            ],
+            "intercalary": false,
+            "timespan": 4,
+            "offset": 0,
+            "type": "leapday"
+          },
+          {
+            "id": "ID_f9698a8bd978",
+            "name": "Rhaplanca's Day",
+            "interval": [
+              {
+                "interval": 1,
+                "exclusive": false,
+                "ignore": false
+              }
+            ],
+            "intercalary": false,
+            "timespan": 5,
+            "offset": "0",
+            "type": "leapday"
+          },
+          {
+            "id": "ID_098b8a390ada",
+            "name": "Lyura's Day",
+            "interval": [
+              {
+                "interval": 1,
+                "exclusive": false,
+                "ignore": false
+              }
+            ],
+            "intercalary": false,
+            "timespan": 6,
+            "offset": 0,
+            "type": "leapday"
+          },
+          {
+            "id": "ID_9be8e9bb7a4a",
+            "name": "Lolth's Day / Day of the Dead Goddess",
+            "interval": [
+              {
+                "interval": 1,
+                "exclusive": false,
+                "ignore": false
+              }
+            ],
+            "intercalary": false,
+            "timespan": 7,
+            "offset": 0,
+            "type": "leapday"
+          },
+          {
+            "id": "ID_79caea490bb9",
+            "name": "Vith-Kera and Vith-Marell's Day / The Seekers' Day",
+            "interval": [
+              {
+                "interval": 1,
+                "exclusive": false,
+                "ignore": false
+              }
+            ],
+            "intercalary": false,
+            "timespan": 8,
+            "offset": 0,
+            "type": "leapday"
+          },
+          {
+            "id": "ID_a9ab4b0a9a6b",
+            "name": "Asmodeus' Day",
+            "interval": [
+              {
+                "interval": 1,
+                "exclusive": false,
+                "ignore": false
+              }
+            ],
+            "intercalary": false,
+            "timespan": 9,
+            "offset": 0,
+            "type": "leapday"
+          },
+          {
+            "id": "ID_5b9a2898e97b",
+            "name": "Gigeadeth and Bane's Day / The Brothers' Day",
+            "interval": [
+              {
+                "interval": 1,
+                "exclusive": false,
+                "ignore": false
+              }
+            ],
+            "intercalary": false,
+            "timespan": 10,
+            "offset": 0,
+            "type": "leapday"
+          },
+          {
+            "id": "ID_69185afb68c8",
+            "name": "The Raven Queen's Day",
+            "interval": [
+              {
+                "interval": 1,
+                "exclusive": false,
+                "ignore": false
+              }
+            ],
+            "intercalary": false,
+            "timespan": 11,
+            "offset": 0,
+            "type": "leapday"
+          }
+        ],
+        "eras": [],
+        "useCustomYears": false
+      },
+      "current": {
+        "year": 1583,
+        "month": 11,
+        "day": 8
+      },
+      "events": [
+        {
+          "name": "Melora's Day",
+          "description": null,
+          "date": {
+            "year": null,
+            "month": -1,
+            "day": 0
+          },
+          "id": "ID_e9d9aa4b2ada",
+          "note": null,
+          "category": "ID_7979f98aa87a",
+          "formulas": [
+            {
+              "type": "interval",
+              "number": 0,
+              "timespan": "days"
+            }
+          ],
+          "end": {
+            "month": 0,
+            "day": 29,
+            "year": null
+          }
+        },
+        {
+          "name": "Erathis' Day",
+          "description": null,
+          "date": {
+            "month": 1,
+            "day": 29,
+            "year": null
+          },
+          "id": "ID_7b782938f91b",
+          "note": null,
+          "category": "ID_7979f98aa87a",
+          "end": {
+            "year": null,
+            "month": 1,
+            "day": 29
+          }
+        },
+        {
+          "name": "Neen's Day",
+          "description": null,
+          "date": {
+            "month": 2,
+            "day": 29,
+            "year": null
+          },
+          "id": "ID_39fbf878fa59",
+          "note": null,
+          "category": "ID_7979f98aa87a"
+        },
+        {
+          "name": "Maoh's Day",
+          "description": null,
+          "date": {
+            "month": 3,
+            "day": 29,
+            "year": null
+          },
+          "id": "ID_0ad9c9d9383a",
+          "note": null,
+          "category": "ID_7979f98aa87a"
+        },
+        {
+          "name": "Infel and Nenesha's Day / The Lovers' Day",
+          "description": null,
+          "date": {
+            "month": 4,
+            "day": 29,
+            "year": null
+          },
+          "id": "ID_88f9dafa1b59",
+          "note": null,
+          "category": "ID_7979f98aa87a"
+        },
+        {
+          "name": "Rhaplanca's Day",
+          "description": null,
+          "date": {
+            "month": 5,
+            "day": 29,
+            "year": null
+          },
+          "id": "ID_e8b9aab87b58",
+          "note": null,
+          "category": "ID_7979f98aa87a"
+        },
+        {
+          "name": "Lyura's Day",
+          "description": null,
+          "date": {
+            "month": 6,
+            "day": 29,
+            "year": null
+          },
+          "id": "ID_bb298bcb7a39",
+          "note": null,
+          "category": "ID_7979f98aa87a"
+        },
+        {
+          "name": "Lolth's Day / Day of the Dead Goddess",
+          "description": null,
+          "date": {
+            "month": 7,
+            "day": 29,
+            "year": null
+          },
+          "id": "ID_7a082a39ea1b",
+          "note": null,
+          "category": "ID_7979f98aa87a"
+        },
+        {
+          "name": "Vith-Kera and Vith-Marell's Day / The Seekers' Day",
+          "description": null,
+          "date": {
+            "month": 8,
+            "day": 29,
+            "year": null
+          },
+          "id": "ID_a858792babc9",
+          "note": null,
+          "category": "ID_7979f98aa87a"
+        },
+        {
+          "name": "Asmodeus' Day",
+          "description": null,
+          "date": {
+            "month": 9,
+            "day": 29,
+            "year": null
+          },
+          "id": "ID_882b6b587b8b",
+          "note": null,
+          "category": "ID_7979f98aa87a"
+        },
+        {
+          "name": "Gigeadeth and Bane's Day / The Brothers' Day",
+          "description": null,
+          "date": {
+            "month": 10,
+            "day": 29,
+            "year": null
+          },
+          "id": "ID_5a3b98aafb89",
+          "note": null,
+          "category": "ID_7979f98aa87a"
+        },
+        {
+          "name": "The Raven Queen's Day",
+          "description": null,
+          "date": {
+            "month": 11,
+            "day": 29,
+            "year": null
+          },
+          "id": "ID_8a587a58696a",
+          "note": null,
+          "category": "ID_7979f98aa87a"
+        },
+        {
+          "name": "Melora's Day",
+          "description": null,
+          "date": {
+            "month": 0,
+            "day": 29,
+            "year": null
+          },
+          "id": "ID_2bd84a7adb7b",
+          "note": null,
+          "category": "ID_7979f98aa87a"
+        }
+      ],
+      "categories": [
+        {
+          "id": "ID_7979f98aa87a",
+          "color": "#69e5a7",
+          "name": "Godsday"
+        }
+      ],
+      "autoParse": false,
+      "path": "/",
+      "supportTimelines": false,
+      "syncTimelines": true,
+      "timelineTag": "#timeline"
+    }
+  ],
+  "configDirectory": null,
+  "currentCalendar": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": null,
+  "eventPreview": false,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "settingsToggleState": {
+    "calendars": true,
+    "events": true,
+    "advanced": true
+  },
+  "showIntercalary": false,
+  "version": {
+    "major": null,
+    "minor": null,
+    "patch": null
+  },
+  "debug": false
+}
