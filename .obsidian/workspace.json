@@ -40,9 +40,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "65feec3637c69626",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM Notes/NPCS/Imetia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -180,10 +192,11 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "55bf5003e95b9893",
+  "active": "65feec3637c69626",
   "lastOpenFiles": [
-    "NPCs/Imetia/Imetia.md",
+    "DM Notes/NPCS/Bassari.md",
     "DM Notes/NPCS/Imetia.md",
+    "NPCs/Imetia/Imetia.md",
     "NPCs/Elcenni/Elcenni.md",
     "DM Notes/NPCS",
     "Mundane Miracles.md",
