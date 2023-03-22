@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Imetia/Imetia.md",
+                "file": "DM Notes/NPCS/Imetia.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Imetia/Imetia.md",
+                "file": "DM Notes/NPCS/Imetia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Imetia/Imetia.md",
+                "file": "DM Notes/NPCS/Imetia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Imetia/Imetia.md"
+                "file": "DM Notes/NPCS/Imetia.md"
               }
             }
           },
@@ -182,8 +182,8 @@
   },
   "active": "55bf5003e95b9893",
   "lastOpenFiles": [
-    "DM Notes/NPCS/Imetia.md",
     "NPCs/Imetia/Imetia.md",
+    "DM Notes/NPCS/Imetia.md",
     "NPCs/Elcenni/Elcenni.md",
     "DM Notes/NPCS",
     "Mundane Miracles.md",
